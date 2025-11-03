@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Price,Discount,Stock_Status,Timer_Used,Auto_Add_Cart,Hidden_Charges,Dark_Pattern_Type,Severity_Score,Compliance_Status,Recommendation
+101,Smartphone A,Electronics,14999,70%,Only 1 left!,Yes,Yes,Yes,Fake Scarcity,8,Fail,Remove false scarcity messages.
+102,Shoes B,Fashion,2499,50%,In stock,No,No,Yes,Hidden Cost,7,Warning,Show final price clearly.
+103,Face Cream C,Beauty,599,60%,Hurry! Sale ends soon,Yes,No,No,Urgency Timer,6,Warning,Avoid fake urgency timers.
+104,Laptop D,Electronics,49999,45%,Limited offer,Yes,Yes,Yes,Auto Add,9,Fail,Do not auto-add items to cart.
+105,Earbuds E,Electronics,1999,65%,Only 2 left!,No,No,No,Fake Scarcity,7,Warning,Clarify limited stock properly.
+106,T-shirt F,Fashion,899,55%,In stock,No,No,No,None,2,Pass,Maintain transparency.
