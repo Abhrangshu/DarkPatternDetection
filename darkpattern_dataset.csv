@@ -1,0 +1,11 @@
+Website,URL,Detected_Patterns,Risk_Level
+Amazon,https://www.amazon.in,"Urgency Timer, Fake Scarcity",High
+Flipkart,https://www.flipkart.com,"Hidden Charges, Fake Discount",Medium
+Myntra,https://www.myntra.com,Forced Account Creation,Medium
+Ajio,https://www.ajio.com,Auto Applied Coupons,Low
+Nykaa,https://www.nykaa.com,Fake Scarcity,Medium
+Meesho,https://www.meesho.com,"Trick Wording, Hidden Charges",High
+Snapdeal,https://www.snapdeal.com,Countdown Timer,High
+TataCliq,https://www.tatacliq.com,Pre-selected Add-ons,Medium
+Croma,https://www.croma.com,Fake Discount,Low
+Swiggy,https://www.swiggy.com,Personalized Targeting,High
